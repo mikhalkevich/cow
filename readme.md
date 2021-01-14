@@ -26,4 +26,6 @@
 - перейти в папку с проектом
 - git init (инициализация пустого репозитория)
 - git add * (добавить файлы проекта в область видимости git)
+- git config --global user.name "John Doe"
+- git config --global user.email johndoe@example.com
 - git commit -m "first commit" ()
