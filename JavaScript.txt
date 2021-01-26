@@ -165,3 +165,10 @@ const selfEducate = person => ({
 	canWrite: true
 });
 var newIvan = selfEducate(Ivan);
+
+
+
+
+
+
+
